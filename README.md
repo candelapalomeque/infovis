@@ -1,2 +1,2 @@
 # infovis
-Clase visualización de información 
+Trabajos prácticos visualización de información 
