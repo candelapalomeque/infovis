@@ -6,3 +6,4 @@ q-q plots
 glyphs
 dendrogram
 icicle tree layout
+clusters
