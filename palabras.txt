@@ -1,0 +1,8 @@
+stacked graphs
+nasted form
+box-and-whisker plot
+flow map
+q-q plots
+glyphs
+dendrogram
+icicle tree layout
