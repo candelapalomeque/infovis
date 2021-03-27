@@ -6,3 +6,4 @@ Trabajos prácticos visualización de información
 [Mi primer html](https://candelapalomeque.github.io/infovis/index.html)
 
 [MOMS9](https://candelapalomeque.github.io/infovis/moms9.html)
+[Datos Personales](https://candelapalomeque.github.io/infovis/datospersonales.html)
