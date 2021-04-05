@@ -9,4 +9,4 @@ Trabajos prácticos visualización de información
 
 [Datos Personales](https://candelapalomeque.github.io/infovis/datospersonales.html)
 
-[Población](https://candelapalomeque.github.io/infovis/poblacion.html)
+[Población](https://candelapalomeque.github.io/infovis/población.html)
