@@ -7,7 +7,7 @@ Trabajos prácticos visualización de información
 
 [MOMS9](https://candelapalomeque.github.io/infovis/moms9.html)
 
-[Datos Personales](https://candelapalomeque.github.io/infovis/datospersonales.html)
+[Datos Personales](https://candelapalomeque.github.io/infovis/datospers.html)
 
 [Población](https://candelapalomeque.github.io/infovis/poblacion.html)
 
